@@ -145,7 +145,8 @@ export default function Home() {
         alignItems="center"
         justifyContent="center"
         width="900px"
-        border="20px solid #333"
+        border="35px solid #333"
+        borderRadius={"30px"} /* adds rounded corners */
         padding="20px"
         bgcolor={"#EADBC8"}
        /* 
